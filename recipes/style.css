@@ -1,0 +1,17 @@
+* {
+  font-family: 'Times New Roman', Times, serif;  
+}
+
+h1
+{
+  font-size: 100px;
+}
+
+img {
+    width: 400px;
+    align-items: center;
+}
+
+h1, h2{
+    text-align: center;
+}
