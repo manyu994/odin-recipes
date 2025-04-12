@@ -1,5 +1,11 @@
 * {
-  font-family: 'Times New Roman', Times, serif;  
+  font-family: sans-serif;
+  margin: auto 20px;
+}
+
+body
+{
+  font-family: sans-serif;
 }
 
 h1
@@ -8,10 +14,17 @@ h1
 }
 
 img {
-    width: 400px;
-    align-items: center;
+    display: block;
+    margin: auto;
 }
-
-h1, h2{
-    text-align: center;
+h1, h2, h3
+{
+  margin: 20px auto;
+  display: block;
+  background-color: yellow;  
+  text-align: left;
+}
+li
+{
+  margin-bottom: 5px;
 }

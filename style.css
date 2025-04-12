@@ -3,15 +3,21 @@
 }
 .recipes
 {
+    display: inline-block;
     font-size: 40px;
     color: black;
     text-align: center;
+    margin: 20px;
+    width: 200px;
+    background-color: orangered;
 }
 
 #title
 {
     text-align: center;
+    margin: auto;
     font-size: 100px;
     font-weight: bold;
     color: brown;
+    background-color: yellow;
 }
